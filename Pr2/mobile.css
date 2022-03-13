@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.maincontainer {
+padding-left: 32px;
+padding-right: 16px;
+padding-top: 80px;}
+h {
+
+    padding-left: 32px;
+    padding-right: 16px;
+    Font-family: Oswald;
+Font-style: Bold;
+Font-size: 24.7px;
+Line-height: 28px;
+Line-height: 76%;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: 3%;
+color:#382459 ;
+height: 28px;
+width: 272px;
+border-radius: nullpx;
+margin-bottom: 53.01px;
+}
+.h1 {
+    margin-top: 53.01px;
+
+}
